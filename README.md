@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
   
 <img align="left" alt="MobiOS LinkedIN" src="https://img.shields.io/github/followers/mobios-21?style=social" />
    
-<br />   <h3> Meme for your my friend </h3>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<br />   <h3> Smile my friend</h3>
+<img src='https://random-memer.herokuapp.com/' width="300px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
