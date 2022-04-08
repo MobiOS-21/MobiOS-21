@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 <a 
   <img align="left" alt="MobiOS Instagram" width="22px" src="https://img.shields.io/github/followers/mobios-21?style=social" />
 </a>
+<a href="https://career.habr.com/mobios_21">
+  Хабр
+</a>
 <a href="https://www.instagram.com/mobios_21/">
   <img align="left" alt="MobiOS Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
